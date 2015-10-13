@@ -9,3 +9,7 @@
 	* Criação do repositorio.
 	* Criação do Projeto.
 	* Criação do Cliente DAO.
+	
+#15 de outubro de 2015
+	
+	jasper
